@@ -4,7 +4,6 @@
   "version": "0.7.1",
   "private": false,
   "engines": {
-    "node": ">=16.0.0",
     "yarn": "^1.5"
   },
   "description": "React hooks for web3",
